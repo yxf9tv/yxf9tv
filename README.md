@@ -22,6 +22,8 @@ On the technical side, I've built everything from market intelligence tools duri
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 ## 📫 Let's connect
+Linkedin: https://www.linkedin.com/in/bradencruz/
+Email: yxf9tv@virginia.edu
 
 **Currently learning:** How to balance technical depth with product thinking, and why Docker still breaks in production even when it works locally
 
